@@ -3,4 +3,3 @@
 ## Set up your Wallet
 ## Authenticate with CHAPI
 ## Store your Credential
-### header3
