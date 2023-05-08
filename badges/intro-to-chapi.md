@@ -27,12 +27,12 @@ In this step, CHAPI will facilitate the process of you sharing your personal ide
 
 Otherwise, you'll get a prompt to open up a popup window:
 
-![chapi-select-popup](https://user-images.githubusercontent.com/20584379/236932433-ae17a8a2-fc18-4267-868b-71cfdbb2d809.png)
+![chapi-select-popup](https://user-images.githubusercontent.com/20584379/236935700-89a0a93f-710b-4a13-b3cb-343c4e2587ae.png)
 
 
 Log in to your preferred wallet, and accept the transfer of your did:
 
-![chapi-authenticate](https://user-images.githubusercontent.com/20584379/236933900-ef7945e0-1f39-4ce2-8670-d60ca076ca53.png)
+![chapi-authenticate](https://user-images.githubusercontent.com/20584379/236935747-ddf53db7-6507-4816-a3e3-16eede63a927.png)
 
 
 ## Accept your Credential
