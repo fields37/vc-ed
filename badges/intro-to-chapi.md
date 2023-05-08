@@ -16,7 +16,7 @@ If you don't yet have a digital wallet set up, you will need one to authenticate
 
 Start by opening up the [CHAPI Playground](https://playground.chapi.io/issuer). Select the _Intro to CHAPI_ badge and press "Issue Verifiable Credential", then "Sign In With Your DID". This will open up CHAPI's wallet choice screen.
 
-![chapi-playground](https://user-images.githubusercontent.com/20584379/236928746-1a0f1c1b-c1f2-446f-b48b-c2c53450a91b.png)
+![chapi-playground](https://user-images.githubusercontent.com/20584379/236932380-5f19bb79-9011-44d9-b62c-d0bdda23ed83.png)
 
 
 ## Share your DID
@@ -27,22 +27,22 @@ In this step, CHAPI will facilitate the process of you sharing your personal ide
 
 Otherwise, you'll get a prompt to open up a popup window:
 
-![chapi-select-popup](https://user-images.githubusercontent.com/20584379/236928820-b64c2dbf-3534-4147-81cc-e9d9c362a44a.png)
+![chapi-select-popup](https://user-images.githubusercontent.com/20584379/236932433-ae17a8a2-fc18-4267-868b-71cfdbb2d809.png)
 
 
 Log in to your preferred wallet, and accept the transfer of your did:
 
-![chapi-authenticate](https://user-images.githubusercontent.com/20584379/236928865-05dac22e-566e-441b-a7b4-44ec978eff92.png)
+![chapi-authenticate](https://user-images.githubusercontent.com/20584379/236933900-ef7945e0-1f39-4ce2-8670-d60ca076ca53.png)
 
 
 ## Accept your Credential
 
 You should see two messages at the top of your screen that indicated the website has authenticated with your DID and generated your _Intro to CHAPI_ credential! Now we just need to store the credential in our wallet, so scroll down and hit the "Store In Wallet" button.
 
-![chapi-credential-issued](https://user-images.githubusercontent.com/20584379/236928891-5fb8894d-2f8b-4c63-8560-a40fa8f77476.png)
+![chapi-credential-issued](https://user-images.githubusercontent.com/20584379/236933972-f4df1b01-72d4-46ba-98a4-d696bb235401.png)
 
 This will open the CHAPI wallet selector back up. CHAPI will remember your last choice of wallet, but you can choose either to store your badge in.
 
-![chapi-store](https://user-images.githubusercontent.com/20584379/236929515-1075dcb4-5f96-43a4-8045-fb05ddceb137.png)
+![chapi-store](https://user-images.githubusercontent.com/20584379/236934125-69f930c5-2722-4d4d-b68f-f5bdc5df829f.png)
 
 You should now see a message saying "Successfully stored credential in wallet", and if you navigate to your wallet, you should be able to see your new badge. You've now learned the basics of CHAPI!
